@@ -1,0 +1,45 @@
+﻿#EXTINF:-1, XXX 1
+http://188.35.9.12:21131/udp/142d
+#EXTINF:-1,XXX 2
+http://188.35.9.12:21101/udp/118v
+#EXTINF:-1,XXX 3
+http://188.35.9.12:21101/udp/127h
+#EXTINF:-1,XXX 4
+http://188.35.9.12:21121/udp/129i
+#EXTINF:0,XXX 5
+http://188.35.9.26:9031/udp/117m
+#EXTINF:-1,XXX 6
+http://s1.hdporus.com/content/vod/s1757/480/index.m3u8
+#EXTINF:-1, XXX 7
+http://s1.hdporus.com/content/vod/s1756/480/index.m3u8
+#EXTINF:-1,XXX 8
+http://s1.hdporus.com/content/vod/s1755/480/index.m3u8
+#EXTINF:-1, XXX 9
+http://s1.hdporus.com/content/vod/s1754/480/index.m3u8
+#EXTINF:-1, XXX 10
+http://s1.hdporus.com/content/vod/s1752/480/index.m3u8
+#EXTINF:-1, XXX 11
+http://s1.hdporus.com/content/vod/s1751/480/index.m3u8
+#EXTINF:-1, XXX 12
+http://s1.hdporus.com/content/vod/s1750/480/index.m3u8
+#EXTINF:-1, XXX 13
+http://s1.hdporus.com/content/vod/s1749/480/index.m3u8
+#EXTINF:-1,XXX 14
+http://s1.hdporus.com/content/vod/s1880/480/index.m3u8
+#EXTINF:-1,XXX 15
+http://s1.hdporus.com/content/vod/s1879/480/index.m3u8
+#EXTINF:-1,XXX 16
+http://s1.hdporus.com/content/vod/s1878/480/index.m3u8
+#EXTINF:-1,XXX 17
+http://s1.hdporus.com/content/vod/s1877/480/index.m3u8
+#EXTINF:-1,XXX 18
+http://s1.hdporus.com/content/vod/s1876/480/index.m3u8
+#EXTINF:-1,XXX 19
+http://s1.hdporus.com/content/vod/s2188/480/index.m3u8
+#EXTINF:-1,XXX 20
+http://s1.hdporus.com/content/vod/s2187/480/index.m3u8
+#EXTINF:-1,XXX 21
+http://s1.hdporus.com/content/vod/s2186/480/index.m3u8
+#EXTINF:-1,XXX 22
+http://s1.hdporus.com/content/vod/s2185/480/index.m3u8
+
